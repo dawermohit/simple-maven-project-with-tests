@@ -1,9 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>]
-
-
-
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
 
@@ -84,10 +79,6 @@ _Below is an example of how you can instruct your audience on installing and set
 3. Install NPM packages
    ```sh
    npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
